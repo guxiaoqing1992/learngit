@@ -1,0 +1,45 @@
+
+/*
+QPushButton{
+    background:lightgreen;
+    border:2px solid gray;
+    border-radius: 10px;
+    font-weight: bold;
+}
+QPushButton:hover{
+    color:blue;
+    background:yellow;
+}
+
+QPushButton:pressed{
+    border-radius:5px;
+}
+*/
+
+/*
+QScrollBar:horizontal {
+    border: 2px solid grey;
+    background: #32CC99;
+    height: 15px;
+    margin: 0px 20px 0 20px;
+}
+QScrollBar::handle:horizontal {
+    background: white;
+    min-width: 20px;
+}
+QScrollBar::add-line:horizontal {
+    border: 2px solid grey;
+    background: #32CC99;
+    width: 20px;
+    subcontrol-position: right;
+    subcontrol-origin: margin;
+}
+
+QScrollBar::sub-line:horizontal {
+    border: 2px solid grey;
+    background: #32CC99;
+    width: 20px;
+    subcontrol-position: left;
+    subcontrol-origin: margin;
+}
+*/
